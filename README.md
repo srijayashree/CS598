@@ -3,8 +3,6 @@
 # Reproducing sEHR-CE: Language modelling of structured EHR data for efficient and generalizable patient cohort expansion
 
 
->📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
-
 ## Requirements
 
 To install requirements:
@@ -13,9 +11,6 @@ To install requirements:
 pip install transformers 
  
 ```
-
->📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
-
 ## Training
 
 To train the model(s) in the paper, run this command:
@@ -29,8 +24,6 @@ Model_finetuning_2tests.ipynb
 ## Pre-trained Models
 
 You can download pretrained models here:
-
-- [My awesome model](https://colab.research.google.com/drive/1xlLYSoa_5tWJ2ekAAZZV_P0nOWN1HFf8#scrollTo=lD9afARpmTWh) trained on MIMC-iii datasets. 
 
 >📋  Give a link to where/how the pretrained models can be downloaded and how they were trained (if applicable).  Alternatively you can have an additional column in your results table with a link to the models.
 
